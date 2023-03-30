@@ -1,2 +1,2 @@
-# 9-Lithium_Francisco_Q3_AA1
-files for "Profile customization page".
+# 9-Lithium_Francisco_Q3_AA2
+Looping demonstration files.
